@@ -1,0 +1,31 @@
+{
+  "name": "calpizar_tecnicasmodernasdeautomatizacion",
+  "version": "1.0.0",
+  "description": "Ucreativa Proyecto Cypress",
+  "main": "index.js",
+
+  "scripts": {
+    "cypopen": "#!/bin/sh
+    "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calpizar/calpizar_TecnicasModernasdeAutomatizacion.git"
+  },
+  "keywords": [
+    "ucreativa",
+    "cypress"
+  ],
+  "author": "Carmen Alpizar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calpizar/calpizar_TecnicasModernasdeAutomatizacion/issues"
+  },
+  "homepage": "https://github.com/calpizar/calpizar_TecnicasModernasdeAutomatizacion#readme",
+  "dependencies": {
+    "cypress": "^8.5.0"
+  },
+  "devDependencies": {
+    "axios": "^0.22.0"
+  }
+}
